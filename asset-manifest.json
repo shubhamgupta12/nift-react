@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/nift-react/static/css/main.29150d2b.chunk.css",
-    "main.js": "/nift-react/static/js/main.257e4836.chunk.js",
-    "main.js.map": "/nift-react/static/js/main.257e4836.chunk.js.map",
+    "main.css": "/nift-react/static/css/main.00af7bef.chunk.css",
+    "main.js": "/nift-react/static/js/main.86fe0561.chunk.js",
+    "main.js.map": "/nift-react/static/js/main.86fe0561.chunk.js.map",
     "runtime-main.js": "/nift-react/static/js/runtime-main.5dd7dac1.js",
     "runtime-main.js.map": "/nift-react/static/js/runtime-main.5dd7dac1.js.map",
-    "static/js/2.a88b00db.chunk.js": "/nift-react/static/js/2.a88b00db.chunk.js",
-    "static/js/2.a88b00db.chunk.js.map": "/nift-react/static/js/2.a88b00db.chunk.js.map",
+    "static/js/2.4cb767fb.chunk.js": "/nift-react/static/js/2.4cb767fb.chunk.js",
+    "static/js/2.4cb767fb.chunk.js.map": "/nift-react/static/js/2.4cb767fb.chunk.js.map",
     "index.html": "/nift-react/index.html",
-    "static/css/main.29150d2b.chunk.css.map": "/nift-react/static/css/main.29150d2b.chunk.css.map",
-    "static/js/2.a88b00db.chunk.js.LICENSE.txt": "/nift-react/static/js/2.a88b00db.chunk.js.LICENSE.txt",
-    "static/media/f1.de9ff76b.png": "/nift-react/static/media/f1.de9ff76b.png",
+    "static/css/main.00af7bef.chunk.css.map": "/nift-react/static/css/main.00af7bef.chunk.css.map",
+    "static/js/2.4cb767fb.chunk.js.LICENSE.txt": "/nift-react/static/js/2.4cb767fb.chunk.js.LICENSE.txt",
     "static/media/upload.css": "/nift-react/static/media/photo_bg.52e5b040.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5dd7dac1.js",
-    "static/js/2.a88b00db.chunk.js",
-    "static/css/main.29150d2b.chunk.css",
-    "static/js/main.257e4836.chunk.js"
+    "static/js/2.4cb767fb.chunk.js",
+    "static/css/main.00af7bef.chunk.css",
+    "static/js/main.86fe0561.chunk.js"
   ]
 }
